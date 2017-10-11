@@ -3,6 +3,6 @@ void main()
 {
 ("hello world...!!!")
 }
-"n/this ic basic C program"
+"n/this is basic C program"
 
   

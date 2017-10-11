@@ -3,6 +3,6 @@ void main()
 {
 ("hello world...!!!")
 }
-"n\in
+"n/this ic basic C program"
 
   
